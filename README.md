@@ -31,8 +31,8 @@ A simple data pipeline project that fetches data from an external API, processes
 A deep learning project that implements a Convolutional Neural Network (CNN) using PyTorch to classify images from the CIFAR-10 dataset. The project demonstrates a complete ML pipeline including data preprocessing, model training, evaluation, and visualization.  
 [View Repository](LINK)
 
-🔹 **Library Management System**  
-A basic library management application developed with JavaScript to practice CRUD operations and application logic.  
+🔹 **Travel Companion**  
+An AI-powered travel assistant that converts natural-language flight requests into structured queries and returns real or simulated flight options through a Flask-based web interface.
 [View Repository](LINK)
 
 🔹 **Python QR Menu Project**  
