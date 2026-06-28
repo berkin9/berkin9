@@ -41,8 +41,8 @@ An AI-powered travel assistant that converts natural-language flight requests in
 
 🔹 **Medical Image Captioning Chatbot**  
 A vision-language AI project that fine-tunes the BLIP image captioning model on the ROCOv2 radiology dataset to generate medical image descriptions. The project includes data preprocessing, model fine-tuning with early stopping and checkpointing, evaluation using BLEU, ROUGE, METEOR, and BERTScore, and deployment through Hugging Face Spaces with a Gradio interface.  
-📂 [View Repository](https://github.com/berkin9/Fine-Tuned-Medical-BLIP-Captioning)  
-🚀 [Live Demo](https://huggingface.co/spaces/berkin9/medical-blip-captioning) 
+[View Repository](https://github.com/berkin9/Fine-Tuned-Medical-BLIP-Captioning)  
+
 
 ## Currently Learning
 
