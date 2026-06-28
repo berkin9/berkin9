@@ -39,7 +39,6 @@ A QR menu application for restaurants built with Python and Django REST during m
 An AI-powered travel assistant that converts natural-language flight requests into structured queries and returns real or simulated flight options through a Flask-based web interface.  
 [View Repository](https://github.com/berkin9/travel-companion)
 
-
 🔹 **Medical Image Captioning Chatbot**
 A vision-language AI project that fine-tunes the BLIP image captioning model on the ROCOv2 radiology dataset to generate medical image descriptions. The project includes data preprocessing, model fine-tuning with early stopping and checkpointing, evaluation using BLEU, ROUGE, METEOR, and BERTScore, and deployment through Hugging Face Spaces with a Gradio interface.
 [View Repository](https://github.com/berkin9/Fine-Tuned-Medical-BLIP-Captioning)  
