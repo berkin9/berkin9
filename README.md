@@ -18,6 +18,8 @@
 - AWS
 - Django
 - PHP
+- LLMs
+- NLP
 
 ---
 
